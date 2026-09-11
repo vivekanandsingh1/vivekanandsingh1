@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: Building foundational Data Science & Machine Learning mini projects.<br><br>👯 I’m looking to collaborate on: Open-source Python projects, AI tools, and beginner friendly data analysis repos.<br><br>🤝 I’m looking for help with: Mastering Data Structures & Algorithms (DSA) and PyTorch/TensorFlow.<br><br>🌱 I’m currently learning: Python, Linear Algebra for ML, and core Data Science frameworks.<br><br>💬 Ask me about: Data Science roadmaps or life at IIIT Dharwad.<br><br>⚡ Fun fact: I spend 10% of my time writing code and 90% figuring out why import numpy isn't working in my virtual environment.
 
 
